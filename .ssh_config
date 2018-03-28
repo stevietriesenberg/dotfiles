@@ -1,6 +1,0 @@
-# CAEN
-
-Host ssh
-   Host login.engin.umich.edu
-   User sltries
-   Compression yes
